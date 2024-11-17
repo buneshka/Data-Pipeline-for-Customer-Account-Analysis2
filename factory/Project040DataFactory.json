@@ -1,0 +1,9 @@
+{
+	"name": "Project040DataFactory",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f11e10a-a116-4ff9-b88b-2f0cc9c77da6",
+		"tenantId": "ca850369-cc1f-4576-bc73-8b280adfe38e"
+	}
+}
